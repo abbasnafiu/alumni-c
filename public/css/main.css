@@ -1,0 +1,15 @@
+#leftmenu {
+    float: left;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+#main {
+    float: right;
+   width: 70%;
+    margin-bottom: 20px;
+}
+
+p{
+    line-height: 1.8;
+}
